@@ -31,7 +31,7 @@ class App extends Component {
       >= document.body.offsetHeight - 500
       && this.state.data.length
     ) {
-      this.searchGiphy();
+      this.searchGiphyDebounced();
     }
   }
 
