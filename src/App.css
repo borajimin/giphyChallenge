@@ -1,0 +1,34 @@
+html {
+  background-color: #21252b;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+input, input:focus {
+  outline: none;
+  border-bottom-color: ghostwhite;
+}
+
+.Search {
+  background-color: inherit;
+  border-color: transparent;
+  color: ghostwhite;
+  font-size: 30px;
+}
+
+.Masonry {
+  column-count: 7;
+  column-width: 200px;
+}

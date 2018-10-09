@@ -1,2 +1,1 @@
-# giphyChallenge
-Giphy + Slack integration Challenge
+Using Create React App

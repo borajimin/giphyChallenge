@@ -1,0 +1,42 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 20vmin;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Gif-card {
+  padding: 10px 10px;
+  background-color: #282c34;
+  border-radius: 5px;
+  display: flex;
+  flex: 1 0 0;
+  flex-direction: column;
+  margin: 0px 10px 10px;
+  break-inside: avoid-column;
+}
+
+.Gif-title {
+  color: ghostwhite;
+  padding: 10px 0px;
+}
+
+.Gif-slack {
+  padding: 10px 0px;
+  color: ghostwhite;
+  border: none;
+  background-color: darkgray;
+  border-radius: 5px;
+  margin: 10px 0px;
+}
+
+button:hover {
+  background-color: tomato;
+}
