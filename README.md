@@ -1,4 +1,4 @@
-![alt text](giphychallenge.png)
+![giphychallenge](giphychallenge.png)
 * Used Create React App as a starter kit
 * Users can click on gif cards to view the title of the gif and send the gif to the slack incoming webhook.
 * Focused on Searching efficiency by throttling and debouncing as the user types.
