@@ -26,6 +26,7 @@ input, input:focus {
   border-color: transparent;
   color: ghostwhite;
   font-size: 30px;
+  min-width: 11.5em;
 }
 
 .Masonry {
